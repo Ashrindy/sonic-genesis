@@ -1,2 +1,2 @@
-# sonic-genesis
+# Sonic Genesis (Launcher)
  
