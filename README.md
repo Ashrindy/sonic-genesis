@@ -6,5 +6,5 @@
 
 This is what I expected from Sonic Origins, so I just made it myself.
 
-## 🖥 Platform Support 🖥
+## 🖥 OS Support 🖥
 Currently only Windows
