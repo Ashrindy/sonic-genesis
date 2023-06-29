@@ -21,4 +21,4 @@ Currently only on `Windows`
 | Sonic The Hedgehog 3 & Knuckles |
 
 ## 🖼 Design 🖼
-![](https://cdn.discordapp.com/attachments/842434060714639371/1123960335502688438/ezgif.com-video-to-gif.gif)
+![](https://raw.githubusercontent.com/Ashrindy/sonic-genesis/master/showcase.gif)
