@@ -24,7 +24,7 @@ function createWindow() {
   ipcMain.handle("m-exit", async (event, args) => {
     win.close();
   });
-  win.loadFile("index.html");
+  win.loadFile("./src/index.html");
 }
 
 app.whenReady().then(() => {

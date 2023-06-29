@@ -146,6 +146,7 @@
   padding: 0;
   background: none;
   border: none;
+  outline: none;
   -webkit-app-region: no-drag;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
@@ -170,6 +171,7 @@
   position: fixed;
   z-index: 56;
   padding: 0;
+  outline: none;
   background: none;
   border: none;
   -webkit-app-region: no-drag;
@@ -196,6 +198,7 @@
   position: fixed;
   z-index: 56;
   padding: 0;
+  outline: none;
   background: none;
   border: none;
   -webkit-app-region: no-drag;
