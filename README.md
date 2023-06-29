@@ -12,3 +12,11 @@ Currently only on `Windows`
 |:--------------:|:---------:|
 | [Electron](https://www.electronjs.org/)       | ^25.2.0   |
 | [Electron-Forge](https://www.electronforge.io/) | ^6.2.1    |
+
+## 🎮 Supported Games 🎮
+| Name           |
+|:--------------:|
+| Sonic The Hedgehog 1 |
+| Sonic The Hedgehog 2 |
+| Sonic The Hedgehog 3 & Knuckles |
+
