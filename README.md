@@ -7,10 +7,10 @@
 This is what I expected from Sonic Origins, so I just made it myself.
 
 ## 🖥 OS Support 🖥
-Currently only Windows
+Currently only on `Windows`
 
 ## 🗃 Dependencies 🗃
 | Name           | Version   |
 |:--------------:|:---------:|
-| Electron       | ^25.2.0   |
-| Electron-Forge | ^6.2.1    |
+| [Electron](https://www.electronjs.org/)       | ^25.2.0   |
+| [Electron-Forge](https://www.electronforge.io/) | ^6.2.1    |
