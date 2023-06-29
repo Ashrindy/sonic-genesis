@@ -21,4 +21,4 @@ Currently only on `Windows`
 | Sonic The Hedgehog 3 & Knuckles |
 
 ## 🖼 Design 🖼
-![](https://raw.githubusercontent.com/Ashrindy/sonic-genesis/master/showcase.gif)
+![](https://github.com/Ashrindy/sonic-genesis/blob/master/showcase.gif)
