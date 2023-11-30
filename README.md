@@ -23,4 +23,7 @@ Currently only on `Windows`
 ## 🖼 Design 🖼
 ![](https://github.com/Ashrindy/sonic-genesis/blob/master/showcase.gif)
 
+## ⌨️ Building ⌨️
+```npm run make```
+
 ***Sonic Genesis is in no way affiliated with Sega or Sonic Team. This is a non-profit fan project.***
